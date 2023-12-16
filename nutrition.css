@@ -9,6 +9,7 @@ h1{
     font: size 100%;
     font-weight: bold;
     text-align: center;
+    }
     .loader 
     {
         width: 200px;
@@ -99,7 +100,7 @@ h1{
         transition-delay: 1000ms;
     }
     
-}
+
 .images{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
