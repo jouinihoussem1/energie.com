@@ -2,6 +2,7 @@ body{
     color: rgb(0, 0, 0);
     font-size: larger;
     margin: 0;
+    }
     .loader 
     {
         width: 200px;
@@ -92,7 +93,7 @@ body{
         transition-delay: 1000ms;
     }
     
-}
+
 .container{
   background: linear-gradient(180deg, #161515, red);
 }
